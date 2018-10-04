@@ -1,0 +1,60 @@
+body, body * {
+	font-family: 'Montserrat', sans-serif;
+	color: #494949;
+
+}
+
+body {
+	background-color: #40a63d1a;
+}
+
+/* Write all your CSS here! */
+
+.nav-link, strong{
+	color: red !important;
+	font-size: 30px;
+	font-weight: 50px;
+}
+
+.check{
+	color: white;
+	font-size: 16px;
+	padding: 10px;
+
+
+	
+}
+.nav{
+	background-color: #494949 !important;
+}
+
+.image{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: cover;
+}
+section{
+	display: flex;
+	padding: 90px;
+	flex-direction: column;
+
+}
+
+span{
+	padding: 8px;
+	font-size: 16px;
+	background-color: #2da745;
+	color: white;
+
+
+}
+
+.rigth{
+	margin-top: 40px;
+}
+
+.main-div{
+	display: flex;
+}
+
